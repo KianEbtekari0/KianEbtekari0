@@ -1,5 +1,5 @@
 Hello, I’m Kian ebtekari 👋
-  - I am building a site  :smiley:
+  - I am building a site :smiley:
   - and I want to work on hacking a bit :balloon:
 
 <!---
