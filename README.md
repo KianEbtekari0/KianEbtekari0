@@ -4,6 +4,7 @@ Hello, I’m Kian ebtekari 👋
   - I want to become a good programmer :star:
 -->
 
-![GitHub Stats](https://github-redme-stats.vercel.app/apl?username=curiousgrids$theme=radical)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
