@@ -1,4 +1,4 @@
-Hello, I’m Kian ebtekari 👋
+Hello, im Kian ebtekari 👋
   - I am building a site :smiley:
   - and I want to work on hacking a bit :balloon:
   - I want to become a good programmer :star:
