@@ -8,4 +8,4 @@ KianEbtekari0/KianEbtekari0 is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
-![Githab Stats](https://github-redme-stats.vercel.app/apl username= $theme=ragical)
+![GitHub Stats](https://github-redme-stats.vercel.app/apl username= $theme=radical)
