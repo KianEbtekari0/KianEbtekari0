@@ -4,7 +4,8 @@ Hello, I’m Kian ebtekari 👋
   - I want to become a good programmer :star:
 -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KianEbtekari0)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KianEbtekari0&show_icons=true&theme=radical)
+
 
 
 
