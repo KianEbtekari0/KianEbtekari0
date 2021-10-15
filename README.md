@@ -1,5 +1,6 @@
-### Hello, im Kian ebtekari 👋
-  - I am building a site :smiley:
+### Hello 👋
+  - im Kian ebtekari 😃
+  - I am building a site 👌
   - and I want to work on hacking a bit :balloon:
   - I want to become a good programmer :star:
 
