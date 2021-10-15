@@ -9,4 +9,4 @@ Gmail: kianebtekari0@gmail.com
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KianEbtekari0&theme=tokyonight)
 
-Follow me :follow:
+Follow me :thanks:
