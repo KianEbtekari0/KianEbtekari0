@@ -4,7 +4,7 @@
   - and I want to work on hacking a bit :balloon:
   - I want to become a good programmer :star:
 
-#### ! Gmail: kianebtekari0@gmail.com
+#### Gmail: kianebtekari0@gmail.com
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KianEbtekari0&show_icons=true&theme=tokyonight)
 
@@ -12,10 +12,15 @@
 
 #### Follow me 🥇
 
-```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
+for i in 1..101 {
+    if i % 15 == 0 {
+        println!("FizzBuzz");
+    } else if i % 5 == 0 {
+        println!("Buzz");
+    } else if i % 3 == 0 {
+        println!("Fizz");
+    } else {
+        println!("{}", i);
+    }
+}
+
