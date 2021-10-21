@@ -1,5 +1,5 @@
 ### Hello there 👋
-  - im Kian ebtekari #f03c15 😃
+  - im Kian ebtekari red 😃
   - I am building a site 👌
   - and I want to work on hacking a bit :balloon:
   - I want to become a good programmer :star:
