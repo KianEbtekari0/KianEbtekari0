@@ -1,5 +1,5 @@
 ### Hello there 👋
-  - im Kian ebtekari 😃
+  - im Kian ebtekari #f03c15 😃
   - I am building a site 👌
   - and I want to work on hacking a bit :balloon:
   - I want to become a good programmer :star:
@@ -11,5 +11,3 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KianEbtekari0&theme=tokyonight)
 
 #### Follow me 🥇
-
-#f03c15
