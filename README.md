@@ -12,8 +12,11 @@
 
 #### Follow me 🥇
 
+$ npm install copy-text-to-clipboard
+
 import copy from 'copy-text-to-clipboard';
 
 button.addEventListener('click', () => {
 	copy('🦄🌈');
 });
+
