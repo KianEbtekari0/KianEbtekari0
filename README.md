@@ -11,12 +11,3 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KianEbtekari0&theme=tokyonight)
 
 #### Follow me 🥇
-
-$ npm install copy-text-to-clipboard
-
-import copy from 'copy-text-to-clipboard';
-
-button.addEventListener('click', () => {
-	copy('🦄🌈');
-});
-
