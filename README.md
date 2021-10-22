@@ -12,10 +12,8 @@
 
 #### Follow me 🥇
 
-
-- uses: Platane/KianEbtekari0
-  with:
-    github_user_name: ${{ KianEbtekari0 }}
-    gif_out_path: dist/github-snake.gif
-
-    svg_out_path: dist/KianEbtekari0.svg
+      - name: generate github-contribution-grid-snake.svg
+        uses: Platane/snk@master
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          svg_out_path: dist/github-contribution-grid-snake.svg
