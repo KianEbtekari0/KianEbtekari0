@@ -2,7 +2,6 @@
   - im Kian ebtekari 😃
   - I am building a site 👌
   - and I want to work on hacking a bit :balloon:
-  - I like playing volleyball 🏐
   - I want to become a good programmer :star:
 
    #### Gmail: kianebtekari0@gmail.com
