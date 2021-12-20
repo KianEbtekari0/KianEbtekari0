@@ -10,5 +10,5 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KianEbtekari0&theme=tokyonight)
 
-#### Search my name 🏆
+##### Do a Google search for my name 🏆
 #### Follow me 🥇
