@@ -1,6 +1,6 @@
 ### Hello there 👋
   - I'm kian ebtekari 😃
-  - I'm a site builder 🎈
+  - I'm a Web Developer 🎈
   - I want to become a good programmer :star:
 
    #### Gmail: kianebtekari0@gmail.com
