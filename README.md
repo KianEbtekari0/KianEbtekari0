@@ -1,7 +1,7 @@
  # Hello there 👋
   - I'm kian ebtekari 😃
   - I'm 16 years old 🎂
-  - I'm a Web Developer 🎈
+  - I'm a Web Front-end 🎈
   - I want to become a good programmer :dart:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KianEbtekari0&show_icons=true&theme=transparent)
